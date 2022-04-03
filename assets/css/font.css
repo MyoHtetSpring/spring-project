@@ -1,0 +1,233 @@
+@charset "utf-8";
+/* ===============================
+Font family
+=============================== */
+.fz-en-m {
+    font-family: "oswald", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+}
+.fz-en-b {
+    font-family: "oswald", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+}
+.fz-jp-m {
+    font-family: "noto-sans-cjk-jp", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+}
+.fz-jp-b {
+    font-family: "noto-sans-cjk-jp", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+}
+/* ===============================
+Font weight
+=============================== */
+.fz-normal {
+    font-weight: normal;
+}
+.fz-medium {
+    font-weight: 500;
+}
+.fz-bold {
+    font-weight: bold;
+}
+/* ===============================
+Font size
+=============================== */
+.fz-10 {
+    font-size: 10px;
+}
+.fz-11 {
+    font-size: 11px;
+}
+.fz-12 {
+    font-size: 12px;
+}
+.fz-13 {
+    font-size: 13px;
+}
+.fz-14 {
+    font-size: 14px;
+}
+.fz-15 {
+    font-size: 15px;
+}
+.fz-16 {
+    font-size: 16px;
+}
+.fz-17 {
+    font-size: 17px;
+}
+.fz-18 {
+    font-size: 18px;
+}
+.fz-19 {
+    font-size: 19px;
+}
+.fz-20 {
+    font-size: 20px;
+}
+.fz-21 {
+    font-size: 21px;
+}
+.fz-22 {
+    font-size: 22px;
+}
+.fz-23 {
+    font-size: 23px;
+}
+.fz-24 {
+    font-size: 24px;
+}
+.fz-25 {
+    font-size: 25px;
+}
+.fz-26 {
+    font-size: 26px;
+}
+.fz-27 {
+    font-size: 27px;
+}
+.fz-28 {
+    font-size: 28px;
+}
+.fz-29 {
+    font-size: 29px;
+}
+.fz-30 {
+    font-size: 30px;
+}
+.fz-31 {
+    font-size: 31px;
+}
+.fz-32 {
+    font-size: 32px;
+}
+.fz-33 {
+    font-size: 33px;
+}
+.fz-34 {
+    font-size: 34px;
+}
+.fz-35 {
+    font-size: 35px;
+}
+.fz-36 {
+    font-size: 36px;
+}
+.fz-37 {
+    font-size: 37px;
+}
+.fz-38 {
+    font-size: 38px;
+}
+.fz-39 {
+    font-size: 39px;
+}
+.fz-40 {
+    font-size: 40px;
+}
+.fz-45 {
+    font-size: 45px;
+}
+@media screen and (max-width: 768px) {
+    .fz-10-sp {
+        font-size: 10px;
+    }
+    .fz-11-sp {
+        font-size: 11px;
+    }
+    .fz-12-sp {
+        font-size: 12px;
+    }
+    .fz-13-sp {
+        font-size: 13px;
+    }
+    .fz-14-sp {
+        font-size: 14px;
+    }
+    .fz-15-sp {
+        font-size: 15px;
+    }
+    .fz-16-sp {
+        font-size: 16px;
+    }
+    .fz-17-sp {
+        font-size: 17px;
+    }
+    .fz-18-sp {
+        font-size: 18px;
+    }
+    .fz-19-sp {
+        font-size: 19px;
+    }
+    .fz-20-sp {
+        font-size: 20px;
+    }
+    .fz-21-sp {
+        font-size: 21px;
+    }
+    .fz-22-sp {
+        font-size: 22px;
+    }
+    .fz-23-sp {
+        font-size: 23px;
+    }
+    .fz-24-sp {
+        font-size: 24px;
+    }
+    .fz-25-sp {
+        font-size: 25px;
+    }
+    .fz-26-sp {
+        font-size: 26px;
+    }
+    .fz-27-sp {
+        font-size: 27px;
+    }
+    .fz-28-sp {
+        font-size: 28px;
+    }
+    .fz-29-sp {
+        font-size: 29px;
+    }
+    .fz-30-sp {
+        font-size: 30px;
+    }
+    .fz-31-sp {
+        font-size: 31px;
+    }
+    .fz-32-sp {
+        font-size: 32px;
+    }
+    .fz-33-sp {
+        font-size: 33px;
+    }
+    .fz-34-sp {
+        font-size: 34px;
+    }
+    .fz-35-sp {
+        font-size: 35px;
+    }
+    .fz-36-sp {
+        font-size: 36px;
+    }
+    .fz-37-sp {
+        font-size: 37px;
+    }
+    .fz-38-sp {
+        font-size: 38px;
+    }
+    .fz-39-sp {
+        font-size: 39px;
+    }
+    .fz-40-sp {
+        font-size: 40px;
+    }
+    .fz-45-sp {
+        font-size: 45px;
+    }
+}
